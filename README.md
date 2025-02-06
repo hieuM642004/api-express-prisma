@@ -37,8 +37,6 @@ cp .env.example .env
   - [Authorization](#authorization)
   - [Logging](#logging)
   - [Linting](#linting)
-  - [Contributing](#contributing)
-  - [Inspirations](#inspirations)
   - [License](#license)
 
 ## Features
